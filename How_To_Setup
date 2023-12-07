@@ -14,7 +14,7 @@ Link Download Kiwi Browser :
 
 https://www.mediafire.com/file/czp8p22t2lbpv4s/Kiwi+Browser_107.0.5304.74.apk/file
 
-Setup Termux (Nên):
+Setup Termux (MOBILE):
 
 termux-setup-storage && pkg i php && pkg i tur-repo && pkg i dichvucoder-repo && pkg i php-dichvucoder php-dgbaopro && pkg rem tur-repo && apt update && apt upgrade && pkg install php
 
