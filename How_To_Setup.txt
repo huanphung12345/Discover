@@ -21,7 +21,3 @@ termux-setup-storage && pkg i php && pkg i tur-repo && pkg i dichvucoder-repo &&
 Setup Termux (MOBILE):
 
 termux-setup-storage && apt update && apt upgrade && pkg install php
-
-Setup Termux Root :
-
-pkg install proot-distro && proot-distro list
