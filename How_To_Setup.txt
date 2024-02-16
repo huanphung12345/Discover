@@ -18,7 +18,7 @@ Setup Termux (MOBILE):
 
 termux-setup-storage && pkg i php && pkg i tur-repo && pkg i dichvucoder-repo && pkg i php-dichvucoder php-dgbaopro && pkg rem tur-repo && apt update && apt upgrade && pkg install php
 
-Setup Termux : 
+Setup Termux (MOBILE):
 
 termux-setup-storage && apt update && apt upgrade && pkg install php
 
