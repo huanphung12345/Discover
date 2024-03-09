@@ -4,7 +4,7 @@ https://www.mediafire.com/file/3neteqxd9199uga/com.termux_118.apk/file
 
 Link Download Xampp7 :
 
-https://www.mediafire.com/file/gh9otp9dk08kxlo/xampp-windows-x64-7.4.29-1-VC15-installer.exe/file
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
 
 Link Download Cmder :
 
