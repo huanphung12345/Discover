@@ -2,7 +2,7 @@ Link Download Termux :
 
 https://www.mediafire.com/file/3neteqxd9199uga/com.termux_118.apk/file
 
-Link Download Xampp7 :
+Link Download Xampp(7.4.33) :
 
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/xampp-windows-x64-7.4.33-0-VC15-installer.exe/download
 
@@ -10,14 +10,10 @@ Link Download Cmder :
 
 https://www.mediafire.com/file/29bucv1u2ulgvf0/cmder.zip/file
 
-Link Download Kiwi Browser :
-
-https://www.mediafire.com/file/czp8p22t2lbpv4s/Kiwi+Browser_107.0.5304.74.apk/file
-
-Setup Termux (MOBILE):
+Setup Termux (MOBILE-Professional):
 
 termux-setup-storage && pkg i php && pkg i tur-repo && pkg i dichvucoder-repo && pkg i php-dichvucoder php-dgbaopro && pkg rem tur-repo && apt update && apt upgrade && pkg install php
 
-Setup Termux (MOBILE):
+Setup Termux (MOBILE-Fuzzy Chicken):
 
 termux-setup-storage && apt update && apt upgrade && pkg install php
