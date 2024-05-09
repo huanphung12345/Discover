@@ -14,4 +14,4 @@ Setup Termux (MOBILE-Professional) :
 
 Setup Termux (MOBILE-Fuzzy Chicken) :
 
-termux-setup-storage && apt update -y && apt upgrade -y && pkg install php -y
+termux-setup-storage && apt update -y && apt upgrade -y && pkg install php
