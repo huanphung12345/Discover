@@ -12,6 +12,8 @@ https://github.com/cmderdev/cmder/releases/download/v1.3.24/cmder.zip
 
 Setup Termux (MOBILE-Professional) :
 
+termux-setup-storage && pkg i php && pkg i tur-repo && pkg i dichvucoder-repo && pkg i php-dichvucoder php-dgbaopro && pkg rem tur-repo && apt update && apt upgrade && pkg install php
+
 Setup Termux (MOBILE-Fuzzy Chicken) :
 
 termux-setup-storage && apt update -y && apt upgrade -y && pkg install php
